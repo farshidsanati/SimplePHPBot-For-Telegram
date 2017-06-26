@@ -1,8 +1,13 @@
 <?php
 
 ############################################################################################
-define('API_KEY','BOTTOKEN');
+# Web : https://sayasoft.ir 
+# Telegram : @SayaSoft 
+# https://t.me/sayasoft
 ############################################################################################
+
+
+define('API_KEY','BOTTOKEN');
 
 //----######------
 function makereq($method,$datas=[]){
