@@ -113,7 +113,7 @@ var_dump(makereq('sendMessage',[
         'reply_markup'=>json_encode([
             'inline_keyboard'=>[
                 [
-                    ['text'=>"Join SpyGuard Channel ðŸ‘‘",'url'=>"https://telegram.me/SpyGuard"]
+                    ['text'=>"Join SayaSoft Channel",'url'=>"https://telegram.me/SayaSoft"]
                 ]
             ]
         ])
